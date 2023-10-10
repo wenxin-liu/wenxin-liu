@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Wenxin Liu. I am a computer scientist, software engineer and site reliability engineer based in London.
+
+I recently completed my Master’s degree in Computer Science at Birkbeck, University of London, under the supervision of Prof. Tobias Ritschel (UCL), where my research focused on the intersection of computer graphics and machine learning. In particular, applying neural networks to bounding volumes and spatial queries, shifting construction from a problem in computational geometry to a problem of optimisation. Our article, “Neural Bounding”, is out on arXiv pre-print.
+
+Alongside my academic pursuits, I am a senior engineer with a decade of industry experience. My professional expertise spans across data, infrastructure, platform, and software. In particular, I specialised extensively in Site Reliability Engineering (distributed systems, networking, platforms, pipelines, telemetry, Linux, cloud computing) and Software Engineering (object-oriented: Go, Java, Python; Functional: Scala, Kotlin.)
+
+I received my BSc (Hons) from University College London. Looking ahead, I’m interested in pursuing further research via a Ph.D. that combines computer graphics and computer vision.
+
+You can get in touch with me at wenxin.liu.cs[at]gmail.com.
