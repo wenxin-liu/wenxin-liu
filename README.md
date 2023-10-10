@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Wenxin Liu. I am a computer scientist, software engineer and site reliability engineer with a decade of industry experience. 
+I'm Wenxin Liu. I am a computer scientist, software engineer and site reliability engineer with a decade of industry experience, based in London. 
 
 Recently I've been working on research at the intersection of computer graphics and machine learning. Specifically, applying neural networks to bounding volumes and spatial queries, shifting construction from a problem in computational geometry to a problem of optimisation. Our latest article, “Neural Bounding”, is out on arXiv pre-print.
 
